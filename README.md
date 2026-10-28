@@ -12,3 +12,9 @@
 |  机型 | MacBook Pro 16-inch, 2019 |
 |WiFi&Bluetooth | AMD R6Z6(MT7922)|
 |  硬盘 | Fanxiang S500Pro 1TB |
+
+## No Working ❌
+* 随航（核显无法驱动且网卡暂不支持，无法使用）
+* AirDrop
+* Radeon 680M核显
+* 如有更多需要，你可以进行反馈和联系我。
